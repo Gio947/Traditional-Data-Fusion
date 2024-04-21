@@ -1,4 +1,5 @@
 # Traditional-Data-Fusion
+Project realised with Francesca Stefano for the 3D perception and learning based data fusion course for the second year of the master's degree programme.
 This repository shows  how to generate an object-level fused track list from measurements of a lidar and multiple camera sensors using a joint integrated probabilistic data association tracker. 
 Different sensors capture different characteristics of objects in their field of view and have the potential to complement each other. 
 <br>
